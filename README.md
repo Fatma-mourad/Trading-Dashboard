@@ -1,4 +1,4 @@
-# Orbit — Trading Dashboard
+# Orbit - Trading Dashboard
 
 <p align="center">
   <img src="assets/orbit-preview.png" width="650" alt="Orbit Trading Dashboard"/>
