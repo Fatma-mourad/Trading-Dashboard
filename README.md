@@ -1,7 +1,7 @@
 # Orbit - Trading Dashboard
 
 <p align="center">
-  <img src="assets/orbit-preview.png" width="650" alt="Orbit Trading Dashboard"/>
+  <img src="./Dashboard%20Main%20DM.png" width="650" alt="Orbit Dashboard">
 </p>
 
 <p align="center">
