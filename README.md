@@ -1,8 +1,7 @@
 # Orbit - Trading Dashboard
 
-<p align="center">
-  <img src="./Dashboard%20Main%20DM.png" width="650" alt="Orbit Dashboard">
-</p>
+<img width="1440" height="1143" alt="Dashboard - Main DM" src="https://github.com/user-attachments/assets/70133d20-9b01-4600-8ce9-61cb78e05586" />
+
 
 <p align="center">
   A fintech dashboard designed to simplify financial data visualization and portfolio monitoring.
